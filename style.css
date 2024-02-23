@@ -291,6 +291,9 @@ footer .questions {
 
     .secimg video {
         max-width: 350px;
+        position: absolute;
+        top: 51px;
+        right: 0;
 
     }
 
