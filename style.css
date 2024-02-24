@@ -285,21 +285,19 @@ footer .questions {
     }
 
     .secimg img {
-        max-width: 555px;
+        max-width: 305px;
 
     }
 
     .secimg video {
-        max-width: 350px;
-        position: absolute;
-        top: 51px;
-        right: 0;
+        max-width: 300px;
+        
 
     }
 
     #vid {
-        max-width: 370px;
-        right: 94px;
+        max-width: 250px;
+        right: 54px;
         top: 55px
     }
 
